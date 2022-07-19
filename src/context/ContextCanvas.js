@@ -1,6 +1,5 @@
-import { createContext, useEffect, useState } from 'react';
+import { createContext, useState } from 'react';
 import { fabric } from 'fabric';
-// import { setValues } from 'framer-motion/types/render/utils/setters';
 
 const ContextCanvas = createContext();
 

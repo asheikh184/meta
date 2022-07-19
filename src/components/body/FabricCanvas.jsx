@@ -1,7 +1,6 @@
-import React, { useContext, useEffect, useLayoutEffect } from 'react';
+import React, { useContext, useLayoutEffect } from 'react';
 import { fabric } from 'fabric';
 import ContextCanvas from '../../context/ContextCanvas';
-// import PolygonComp from '../objects/drawings/Polygon';
 
 
 const FabricCanvas = () => {
